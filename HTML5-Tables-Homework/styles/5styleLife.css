@@ -1,0 +1,67 @@
+﻿body {
+    padding:0px;
+    margin:0px;
+}
+
+table {
+    width:400px;
+    height:500px;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+}
+
+    table thead {
+        text-align:center;
+        padding:5px 0px 0px 0px;
+        margin:auto;
+        font: bold 42px arial,verdana;
+    }
+
+.nestedTable {
+    text-align:center;
+    position:static;
+    background-position:center;
+    font:bold 12px arial,verdana;
+    margin:auto;
+    width:75%;
+    height:85%;
+}
+
+.withNestedTable {
+    height:25%;
+    width:25%;
+}
+
+.google {
+    text-align:left;
+    vertical-align:top;
+}
+
+.github {
+    text-align:right;
+    vertical-align:top;
+}
+
+.leftPos {
+    text-align:left;
+    margin:auto;
+}
+
+.fb {
+    text-align:center;
+    vertical-align:top;
+}
+
+.youtube {
+    vertical-align:bottom;
+    text-align:center;
+}
+
+.beer {
+    vertical-align:middle;
+    text-align:right;
+    font: bold 24px arial,verdana;
+}

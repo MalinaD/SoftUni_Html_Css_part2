@@ -1,0 +1,29 @@
+﻿body {
+    padding:0px;
+    margin:0px;
+}
+table {
+    width:400px;
+    height:200px;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+}
+
+    table.secondTable { 
+        height:180px;  
+        width:200px;  
+        position:relative;
+        padding:2px;  
+        margin:5px;
+        text-align:center;
+        font:bold 38px arial, verdana;
+    }
+
+    table td.firstTd {
+        padding:4px;  
+        margin:4px;
+        width:160px;
+    }

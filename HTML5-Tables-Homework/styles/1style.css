@@ -1,0 +1,12 @@
+﻿body {
+}
+
+table {
+    width:310px;
+    height:250px;
+}
+
+    table th {
+        font-family:Arial;
+        font-size:28px;
+    }
